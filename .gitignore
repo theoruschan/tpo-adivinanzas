@@ -1,0 +1,44 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### IDE / IntelliJ project files ###
+.idea/
+*.iml
+*.userlibraries
+*.eml
+
+### Claude Code (asistencia de desarrollo, no forma parte del proyecto) ###
+.claude/
+prompt_mvc.md
+prompt_divide_and_conquer.md
+
+### Datos de partidas locales (se regenera solo al jugar) ###
+marcador.txt
